@@ -1,40 +1,5 @@
-# Bread Pudding
+# Jason
 
-Loosely based of @jpweller's boilerplate.
+My api playground. 
 
-## How To: 
-```bash
-bundle install
-npm install
-grunt
-```
-Paste sync scripts into `app/include/parts/dev-scripts.html`
-
-Work in the `app` directory. 
-
-When ready for production use the build task.
-
-```bash
-grunt build
-```
-
-It will create a new `build` directory that is ready for deployment.
-
-## Known Issues
-
-If grunt-contrib-imagmin fails to install properly because of pngquant see [issue](https://github.com/gruntjs/grunt-contrib-imagemin/issues/183/#issuecomment-41841391)
-
-
-```
-                 ____
-     .----------'    '-.
-    /  .      '     .   \\ *
-   /        '    .      /|
-  /      .             \ /
- /  ' .       .     .  || |
-/.___________    '    / //
-|._          '------'| /|
-'.............______.-' /  
-|-.                  | /
-`"""""""""""""-.....-'    *pudding
-```
+![](http://i.imgur.com/9iZL2nR.jpg)
